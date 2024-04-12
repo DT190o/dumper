@@ -7,4 +7,4 @@
 
 # Dump
 
-Ensuite vous pourrez allez dans le dossier "dump" et y trouver votre serveur dump
+/ Ensuite vous pourrez allez dans le dossier "dump" et y trouver votre serveur dump
